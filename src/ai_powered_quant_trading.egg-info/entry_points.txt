@@ -1,0 +1,2 @@
+[console_scripts]
+quant-trading = quant_trading.cli:main
